@@ -31,7 +31,7 @@ I wanted to create a personal blog website for myself, so I decided to create th
 
     
     ```
-    git clone https://github.com/jsaretin/blogapi.git
+    git clone https://github.com/jsaretin/blog-api.git
     cd blogapi
     pip install -r requirements.txt
     ```
